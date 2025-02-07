@@ -13,7 +13,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link]([https://livedemo.com](https://chimwemwe007.github.io/Underconstruction/))
+[Live Demo Link](https://livedemo.com](https://chimwemwe007.github.io/Underconstruction)
 
 
 ## Getting Started
